@@ -1016,7 +1016,7 @@
 		<array>
 			<dict>
 				<key>desc</key>
-				<string>Week End Day</string>
+				<string>Weekendy</string>
 				<key>timeInterval</key>
 				<integer>1</integer>
 			</dict>
